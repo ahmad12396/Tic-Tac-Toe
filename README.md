@@ -18,9 +18,9 @@ The game ends when there is a winner or all positions are filled (draw).
 Requirements
 C++ compiler (e.g., g++, clang++)
 C++11 or later
+![WhatsApp Image 2024-09-16 at 11 27 34_99b8dd92](https://github.com/user-attachments/assets/92d768b0-a971-4648-bc7a-80e1bb2b219a)
+![WhatsApp Image 2024-09-15 at 22 32 10_e5530501](https://github.com/user-attachments/assets/ba8b2ac7-7126-4167-8a43-199d6520bb58)
 
-![WhatsApp Image 2024-09-16 at 11 27 34_99b8dd92](https://github.com/user-attachments/assets/dc6b0b59-4c93-453d-a07d-d7a813fc7c51)
-![WhatsApp Image 2024-09-15 at 22 32 10_e5530501](https://github.com/user-attachments/assets/acfaff26-1a64-451f-974b-37eabe9210ba)
 
 Code Overview
 main(): Handles game initialization, user input, and game flow.
